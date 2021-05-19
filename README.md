@@ -13,13 +13,12 @@ This is the advance version of Expense Tracker,Expense Tracker v1.0,in this vers
 this version uses Django for backend and Frontend is made using Bootstrap and JavaScript.
 
 
-Here is url from where you can access the project--> https://trackyourexpenseshere.herokuapp.com/
-
-Here is url from where you can access version 0 of Expense Tracker--> https://trackyourexpensehere.herokuapp.com/
-
+Here is url from where you can access the project,Expense Tracker v1.0 --> https://trackyourexpenseshere.herokuapp.com/
+Here is url from where you can access version 0 of Expense Tracker --> https://trackyourexpensehere.herokuapp.com/
 
 
-[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://trackyourexpenseheres.herokuapp.com/)
+
+[<img align = right height = 50 width = 50 src = "https://www.vhv.rs/dpng/d/451-4511009_cool-chrome-transparent-custom-google-chrome-logo-hd.png">](https://trackyourexpenseshere.herokuapp.com/)
 
 [<img align = right height = 50 width = 50 src = "https://edent.github.io/SuperTinyIcons/images/svg/github.svg">](https://github.com/mv1249/ExpenseTracker-v1.0)
 
